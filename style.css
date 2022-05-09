@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.table {
+  max-width: 100%;
+}
+
+.information {
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+}
+.user {
+  font-size: medium;
+  height: 40px;
+}
+.table tbody tr {
+  text-align: left;
+}
+.table th {
+  text-align: left;
+}
